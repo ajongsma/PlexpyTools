@@ -8,6 +8,8 @@
 #
 #   Required: Request
 #             - pip install request
+#             urllib
+#             - pip install urllib
 
 import requests
 import urllib
