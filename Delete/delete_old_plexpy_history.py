@@ -10,6 +10,9 @@
 #   Set api_sql = 1 in the config file.
 #   Start PlexPy.
 #
+#   Usage:
+#   python delete_old_plexpy_history.py
+#   
 #   Source: https://gist.github.com/JonnyWong16/cb1b53e71b89d2159313
 ###
 
