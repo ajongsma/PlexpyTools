@@ -28,5 +28,5 @@ data = {'apikey': PLEXPY_APIKEY,
         'cmd': 'sql',
         'query': query}
 
-url = PLEXPY_URL.rstrip('/') + 'api/v2?' + urllib.urlencode(data)
+url = PLEXPY_URL.rstrip('/') + '/api/v2?' + urllib.urlencode(data)
 requests.post(url)
