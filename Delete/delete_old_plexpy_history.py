@@ -12,7 +12,7 @@
 #   urllib
 #   - pip install urllib
 #
-#   Required config.ini settings:
+#   Notes - config.ini settings:
 #   Enable the API under Settings > Access Control and remember your API key.
 #   Shutdown PlexPy and open your config.ini file in a text editor.
 #   Set api_sql = 1 in the config file.
