@@ -5,6 +5,9 @@
 #   3. Use some method to run the script on a schedule.
 #
 #   Source: https://gist.github.com/JonnyWong16/cb1b53e71b89d2159313
+#
+#   Required: Request
+#             - pip install request
 
 import requests
 import urllib
