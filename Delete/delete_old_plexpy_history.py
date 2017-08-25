@@ -22,7 +22,7 @@ import urllib
 ## EDIT THESE SETTINGS ##
 PLEXPY_URL = 'http://localhost:8181/' # Your PlexPy URL
 PLEXPY_APIKEY = '#####' # Your PlexPy API Key
-HISTORY_DAYS_TO_KEEP = 365
+HISTORY_DAYS_TO_KEEP = 182
 
 ## CODE BELOW ##
 query = 'DELETE FROM session_history WHERE datetime(started, "unixepoch", "localtime") < datetime("now", "-{0} days", "localtime");'.format(HISTORY_DAYS_TO_KEEP)
