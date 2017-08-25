@@ -6,7 +6,7 @@
 #
 #   Source: https://gist.github.com/JonnyWong16/cb1b53e71b89d2159313
 #
-#   Required python modules
+#   Required python modules:
 #   Request
 #   - pip install request
 #   urllib
