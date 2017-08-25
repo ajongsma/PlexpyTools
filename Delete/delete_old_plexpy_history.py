@@ -6,10 +6,14 @@
 #
 #   Source: https://gist.github.com/JonnyWong16/cb1b53e71b89d2159313
 #
-#   Required: Request
-#             - pip install request
-#             urllib
-#             - pip install urllib
+#   Required python modules
+#   Request
+#   - pip install request
+#   urllib
+#   - pip install urllib
+#
+#   Required config.ini settings:
+#   api_sql = 1
 
 import requests
 import urllib
