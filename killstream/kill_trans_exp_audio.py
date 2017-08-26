@@ -16,8 +16,8 @@ from uuid import getnode
 ## EDIT THESE SETTINGS ##
 PLEX_HOST = 'localhost'
 PLEX_PORT = 32400
-PLEX_SSL = ''  # s or ''
-PLEX_TOKEN = 'xxxx'
+PLEX_SSL = ''        # s or ''
+PLEX_TOKEN = 'xxxx'  # Your PlexPy API Key
 DEFAULT_REASON = 'This stream has ended due to requiring video transcoding. ' \
          'Please raise your Remote Quality to Original to play this content.'
 
