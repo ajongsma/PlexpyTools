@@ -1,4 +1,4 @@
-### WARNING: This script has not been tested! ###
+###
 #   1. Set api_sql = 1 in the config.ini file.
 #   2. Install the requests module for python.
 #       pip install requests
