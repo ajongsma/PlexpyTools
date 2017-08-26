@@ -20,7 +20,7 @@ import requests
 import urllib
 
 ## EDIT THESE SETTINGS ##
-PLEXPY_URL = 'http://localhost:8181/' # Your PlexPy URL
+PLEXPY_URL = 'http://localhost:8084/' # Your PlexPy URL
 PLEXPY_APIKEY = '#####' # Your PlexPy API Key
 HISTORY_DAYS_TO_KEEP = 182
 
